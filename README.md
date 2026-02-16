@@ -27,9 +27,9 @@ This is a monorepo containing multiple independent Spring Boot modules:
 
 ### 1. Clone the repository
 ```bash
-git clone [https://github.com/AyanMajumdar100/springboot-basics.git](https://github.com/AyanMajumdar100/springboot-basics.git)
+git clone https://github.com/AyanMajumdar100/springboot-basics.git
 cd springboot-basics
-
+cd wingsdemo or **any project which will be added in the future**
 ```
 
 ### 2. Configure Environment Variables
